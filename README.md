@@ -40,4 +40,5 @@ A lightweight **RAG (Retrieval-Augmented Generation) based chatbot** built in Py
    - By default, chunk size = 500, overlap = 100, and number of context paragraphs = 2.  
    - These values can be customized by passing arguments to the respective functions.  
 
-5. Example Image:
+5. Example Image:  ![Alt text](Screenshot 2025-08-31 212254.png)
+
