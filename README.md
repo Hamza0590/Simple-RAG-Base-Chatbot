@@ -1,27 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# RAG-Based Chatbot Simple
+# Simple RAG-Based Chatbot 
 
 A lightweight **RAG (Retrieval-Augmented Generation) based chatbot** built in Python. This chatbot allows users to query their documents (PDF, text, or DOC files) and get context-aware answers using an LLM.  
 
